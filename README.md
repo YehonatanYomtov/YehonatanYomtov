@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YehonatanYomtov
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning Full Stack
+- 🌱 I’m learning Full Stack at the Developers Institute Bootcamp, in Ramat Gan, Tel Aviv
 - 📫 How to reach me: y.yomtov8@gmail.com
 
 <!---
