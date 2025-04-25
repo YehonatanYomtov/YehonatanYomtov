@@ -1,6 +1,9 @@
 - Hi, I’m @YehonatanYomtov
-- I’m interested in Full Stack Development
-- I learned Full Stack at the Developers Institute Bootcamp, in Ramat Gan, Tel Aviv. And now started an internship in Cyber Security.
+- I’m a Full Stack developer in 
+- I began my coding journey around three years ago, and in June 2024, I joined an intensive 3-month Full Stack Developer bootcamp at Developers Institute in Tel Aviv.
+  During the program, I gained hands-on experience, earned my diploma, and won 1st place in a coding hackathon.
+  Right after completing the bootcamp, I started a 2-month internship at Cyberlights AI,
+  where I’ve been working ever since — contributing to real-world projects and continuing to grow as a developer.
 - How to reach me: y.yomtov8@gmail.com
 
 <!---
